@@ -1,2 +1,21 @@
-# Notice2Action
-AI-powered college notice analysis and action assistant
+# Notice2Action 🎯
+
+An AI-powered college notice assistant that turns scattered notices into personalized, actionable tasks.
+
+## 🚀 Live Demo
+
+**[Open Notice2Action](https://YOUR-ACTUAL-APP-URL.streamlit.app/)**
+
+## Features
+
+* Upload college notices in PDF format
+* Extract and analyze notice content using AI
+* Match notices to a student's profile
+* Identify priorities, deadlines, and required actions
+
+## Built With
+
+* Python
+* Streamlit
+* Groq API
+
