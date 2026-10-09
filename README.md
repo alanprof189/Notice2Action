@@ -4,12 +4,6 @@ An AI-powered college notice assistant that turns scattered notices into persona
 
 ## 🚀 Live Demo
 
-**[Open Notice2Action]# Notice2Action 🎯
-
-An AI-powered college notice assistant that turns scattered notices into personalized, actionable tasks.
-
-## 🚀 Live Demo
-
 [Open Notice2Action] https://notice2action-ppdndd9hck3vpiskvwn3oy.streamlit.app/
 
 ## Features
